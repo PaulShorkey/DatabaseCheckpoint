@@ -2,7 +2,7 @@
 
 ![alt text](http://url/to/01_challenge.png)
 
-
+![alt text](https://github.com/[PaulShorkey]/[DatabaseCheckpoint]/blob/[master]/01_challenge.png?raw=true)
 
 
 CREATE TABLE destinations (
