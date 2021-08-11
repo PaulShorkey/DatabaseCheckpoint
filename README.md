@@ -1,10 +1,6 @@
 
 
-![alt text](https://photos.app.goo.gl/buczTgHFyFLWw7vj7)
-
-
-
-
+![alt text](http://url/to/01_challenge.png)
 
 
 
