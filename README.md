@@ -1,4 +1,5 @@
 
+![alt text](./01_challenge.png)
 
 ![alt text](http://url/to/01_challenge.png)
 
